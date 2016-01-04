@@ -9,7 +9,7 @@ author: "AssoB.it"
 excerpt_separator: ""
 twitter_username: jekyllrb
 github_username:  jekyll
-github: "http://github.com/assobit/assobit.github.io"
+github: "http://github.com/giacomozucco/assobit.github.io"
 gems: [jekyll-paginate]
 paginate: 3
 paginate_path: "/news/page:num/"
